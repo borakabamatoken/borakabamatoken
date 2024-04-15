@@ -1,6 +1,4 @@
 # borakabamatoken.github.io
 meme token
 
-
-
-![main](https://github.com/borakabamatoken/borakabamatoken.github.io/assets/167022030/16826a35-7c9a-4f87-bf5e-b33640330b7e)
+![main (1)](https://github.com/borakabamatoken/borakabamatoken.github.io/assets/167022030/51b248a8-eca9-450d-859a-06f35f4a0898)
